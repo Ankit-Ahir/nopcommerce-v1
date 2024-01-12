@@ -1,0 +1,163 @@
+2024-01-12 22:33:02,317 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:33:03,738 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:33:05,915 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:33:06,016 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:33:08,702 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:33:08,705 - nopcommerce-v1 -INFO - verifying dashboard page title after login successfully
+2024-01-12 22:33:14,395 - nopcommerce-v1 -INFO - Click on customers main menu option
+2024-01-12 22:33:16,481 - nopcommerce-v1 -INFO - Click on customers sub menu option
+2024-01-12 22:33:17,324 - nopcommerce-v1 -INFO - Click on add new button
+2024-01-12 22:33:20,485 - nopcommerce-v1 -INFO - verifying add new customer page title after clicked on add new button
+2024-01-12 22:33:34,404 - nopcommerce-v1 -INFO - Entered customer details
+2024-01-12 22:33:35,441 - nopcommerce-v1 -INFO - Clicked on save button
+2024-01-12 22:33:38,259 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:33:39,476 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:33:40,939 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:33:43,104 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:33:43,215 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:33:44,253 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:33:44,254 - nopcommerce-v1 -INFO - verifying dashboard page title after login successfully
+2024-01-12 22:33:45,650 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:33:46,264 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:33:48,427 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:33:48,547 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:33:49,309 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:33:49,310 - nopcommerce-v1 -INFO - verifying dashboard page title after login successfully
+2024-01-12 22:33:50,586 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:33:54,009 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:33:56,172 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:33:56,325 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:33:57,982 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:33:58,021 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:34:03,414 - nopcommerce-v1 -INFO - Click on logout
+2024-01-12 22:34:05,447 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:34:09,115 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:34:10,470 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:34:12,493 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:34:14,662 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:34:14,783 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:34:16,601 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:34:18,227 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:34:22,782 - nopcommerce-v1 -INFO - Click on logout
+2024-01-12 22:34:24,827 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:34:28,541 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:34:29,771 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:34:31,294 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:34:33,482 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:34:33,598 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:34:35,271 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:34:36,814 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:34:41,481 - nopcommerce-v1 -INFO - Click on logout
+2024-01-12 22:34:43,507 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:34:47,149 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:35:35,500 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:35:36,823 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:35:39,007 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:35:39,143 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:35:40,654 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:35:40,657 - nopcommerce-v1 -INFO - verifying dashboard page title after login successfully
+2024-01-12 22:35:45,184 - nopcommerce-v1 -INFO - Click on customers main menu option
+2024-01-12 22:35:47,297 - nopcommerce-v1 -INFO - Click on customers sub menu option
+2024-01-12 22:35:48,027 - nopcommerce-v1 -INFO - Click on add new button
+2024-01-12 22:35:51,011 - nopcommerce-v1 -INFO - verifying add new customer page title after clicked on add new button
+2024-01-12 22:36:04,378 - nopcommerce-v1 -INFO - Entered customer details
+2024-01-12 22:36:05,338 - nopcommerce-v1 -INFO - Clicked on save button
+2024-01-12 22:36:08,188 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:36:09,390 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:36:10,876 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:36:13,032 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:36:13,153 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:36:14,775 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:36:14,776 - nopcommerce-v1 -INFO - verifying dashboard page title after login successfully
+2024-01-12 22:36:19,266 - nopcommerce-v1 -INFO - Click on customers main menu option
+2024-01-12 22:36:21,346 - nopcommerce-v1 -INFO - Click on customers sub menu option
+2024-01-12 22:36:22,112 - nopcommerce-v1 -INFO - Search customer by email id
+2024-01-12 22:36:22,748 - nopcommerce-v1 -INFO - Entered customer email
+2024-01-12 22:36:22,821 - nopcommerce-v1 -INFO - Clicked on search button
+2024-01-12 22:36:25,915 - nopcommerce-v1 -INFO - Email id should be available in search results = Pass
+2024-01-12 22:36:26,555 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:36:27,872 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:36:29,349 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:36:31,490 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:36:31,613 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:36:33,128 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:36:33,129 - nopcommerce-v1 -INFO - verifying dashboard page title after login successfully
+2024-01-12 22:36:37,720 - nopcommerce-v1 -INFO - Click on customers main menu option
+2024-01-12 22:36:39,840 - nopcommerce-v1 -INFO - Click on customers sub menu option
+2024-01-12 22:36:40,508 - nopcommerce-v1 -INFO - Search customer by name
+2024-01-12 22:36:41,166 - nopcommerce-v1 -INFO - Entered customer firstname
+2024-01-12 22:36:41,348 - nopcommerce-v1 -INFO - Entered customer lastname
+2024-01-12 22:36:41,436 - nopcommerce-v1 -INFO - Clicked on search button
+2024-01-12 22:36:44,533 - nopcommerce-v1 -INFO - Name should be available in search results = Pass
+2024-01-12 22:36:45,165 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:36:46,404 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:36:47,823 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:36:49,980 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:36:50,087 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:36:51,581 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:36:53,184 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:36:57,731 - nopcommerce-v1 -INFO - Click on logout
+2024-01-12 22:36:59,761 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:37:03,433 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:37:04,657 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:37:06,224 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:37:08,378 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:37:08,488 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:37:10,435 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:37:11,879 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:37:16,523 - nopcommerce-v1 -INFO - Click on logout
+2024-01-12 22:37:18,550 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:37:22,230 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:37:23,463 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:37:25,362 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:37:27,541 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:37:27,645 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:37:29,613 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:37:29,635 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:37:34,131 - nopcommerce-v1 -INFO - Click on logout
+2024-01-12 22:37:36,168 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:37:39,852 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:38:45,476 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:38:46,886 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:38:49,069 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:38:49,178 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:38:50,689 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:38:50,692 - nopcommerce-v1 -INFO - verifying dashboard page title after login successfully
+2024-01-12 22:38:55,191 - nopcommerce-v1 -INFO - Click on customers main menu option
+2024-01-12 22:38:57,302 - nopcommerce-v1 -INFO - Click on customers sub menu option
+2024-01-12 22:38:58,056 - nopcommerce-v1 -INFO - Click on add new button
+2024-01-12 22:39:01,075 - nopcommerce-v1 -INFO - verifying add new customer page title after clicked on add new button
+2024-01-12 22:39:14,627 - nopcommerce-v1 -INFO - Entered customer details
+2024-01-12 22:39:15,530 - nopcommerce-v1 -INFO - Clicked on save button
+2024-01-12 22:39:18,400 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:39:19,633 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:39:21,279 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:39:23,440 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:39:23,550 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:39:25,295 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:39:27,062 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:39:31,731 - nopcommerce-v1 -INFO - Click on logout
+2024-01-12 22:39:33,774 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:39:37,456 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:40:00,844 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:40:02,395 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:40:04,556 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:40:04,683 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:40:06,433 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:40:06,437 - nopcommerce-v1 -INFO - verifying dashboard page title after login successfully
+2024-01-12 22:40:10,820 - nopcommerce-v1 -INFO - Click on customers main menu option
+2024-01-12 22:40:12,920 - nopcommerce-v1 -INFO - Click on customers sub menu option
+2024-01-12 22:40:13,716 - nopcommerce-v1 -INFO - Click on add new button
+2024-01-12 22:40:16,786 - nopcommerce-v1 -INFO - verifying add new customer page title after clicked on add new button
+2024-01-12 22:40:30,178 - nopcommerce-v1 -INFO - Entered customer details
+2024-01-12 22:40:31,062 - nopcommerce-v1 -INFO - Clicked on save button
+2024-01-12 22:40:33,897 - nopcommerce-v1 -INFO - Close browser
+2024-01-12 22:40:35,112 - nopcommerce-v1 -INFO - Launch browser
+2024-01-12 22:40:36,720 - nopcommerce-v1 -INFO - Open url
+2024-01-12 22:40:38,879 - nopcommerce-v1 -INFO - Entered email
+2024-01-12 22:40:39,014 - nopcommerce-v1 -INFO - Entered password
+2024-01-12 22:40:40,686 - nopcommerce-v1 -INFO - Click on login
+2024-01-12 22:40:42,339 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:40:46,951 - nopcommerce-v1 -INFO - Click on logout
+2024-01-12 22:40:48,990 - nopcommerce-v1 -INFO - login passed
+2024-01-12 22:40:52,658 - nopcommerce-v1 -INFO - Close browser
